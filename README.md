@@ -1,4 +1,4 @@
 UnityCarEnergy
 ==============
 
-Car Energy 3D Visualization made in Unity
+3D Visualization of Energy generated in a Car made in Unity
